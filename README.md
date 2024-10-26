@@ -34,7 +34,7 @@ PreXplore empowers you to turn raw data into valuable insights quickly and effor
    - *"What are common techniques for dealing with outliers?"*
 
 #### Data Analysis
-- **Visualizations**: Create correlation matrices, pie charts, histograms, and more to understand your data visually.
+- **Visualizations**: Create correlation matrices, pie charts  and more to understand your data visually.
 - **Data Scaling**: Use the StandardScaler to normalize numerical data for better analysis results.
   ...
 
