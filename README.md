@@ -1,9 +1,9 @@
 # GoMyCode-Final-Project
 
 
- 📊 PreXplore: Transform Your Data, Uncover Insights!
+ 📊 preXplore: Transform Your Data, Uncover Insights!
 
-PreXplore empowers you to turn raw data into valuable insights quickly and effortlessly. Whether you're just starting or are a seasoned data analyst, PreXplore provides tools to streamline your data preprocessing and exploratory data analysis (EDA) journey. Let’s dive in and unlock the full potential of your data! 🚀
+preXplore empowers you to turn raw data into valuable insights quickly and effortlessly. Whether you're just starting or are a seasoned data analyst, preXplore provides tools to streamline your data preprocessing and exploratory data analysis (EDA) journey. Let’s dive in and unlock the full potential of your data! 🚀
 
 
 
@@ -41,7 +41,7 @@ PreXplore empowers you to turn raw data into valuable insights quickly and effor
 
 
 
-### 🖥️ Running PreXplore Locally
+### 🖥️ Running preXplore Locally
 
 1. **Download the PreXplore Repository**: Clone or download the GitHub repository to your desktop.
 
@@ -65,9 +65,9 @@ PreXplore empowers you to turn raw data into valuable insights quickly and effor
 
 ### 👨‍💻 Developer Info
 
-PreXplore was developed by Ghazi Lassoued.  
+preXplore was developed by Ghazi Lassoued.  
 📧 Email: lassouedghazi21@gmail.com  
 📱 Phone: +216 95292668  
 🌐 LinkedIn: Ghazi Lassoued
 
-Enjoy exploring your data with PreXplore! 🔍
+Enjoy exploring your data with preXplore! 🔍
